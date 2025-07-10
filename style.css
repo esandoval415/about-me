@@ -1,0 +1,18 @@
+.my-col-1 {
+  background-color: green; /* Color for the first column */
+}
+
+.my-col-2 {
+  background-color: white; /* Color for the second column */
+}
+
+.my-col-3 {
+  background-color: red; /* Color for the third column */
+}
+
+.circular-image {
+     width: 500x;  /* Adjust as needed */
+     height: 500px; /* Adjust as needed */
+     border-radius: 100%; /* Makes it a circle */
+/* Hides any part of the image that goes beyond the circle */
+}
