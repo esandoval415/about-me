@@ -16,3 +16,12 @@
      border-radius: 100%; /* Makes it a circle */
 /* Hides any part of the image that goes beyond the circle */
 }
+
+.image-container {
+  text-align: center; /* Centers the image within the container if it's an inline or inline-block element */
+}
+.center-image {
+  display: block; /* Ensures the image is treated as a block element */
+  margin-left: auto; /* Sets the left margin to automatically adjust */
+  margin-right: auto; /* Sets the right margin to automatically adjust */
+}
