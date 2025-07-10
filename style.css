@@ -1,5 +1,5 @@
 .my-col-1 {
-  background-color: green; /* Color for the first column */
+  background-color: #147a4b; /* Color for the first column */
 }
 
 .my-col-2 {
@@ -7,7 +7,7 @@
 }
 
 .my-col-3 {
-  background-color: red; /* Color for the third column */
+  background-color: rgb(181, 35, 35); /* Color for the third column */
 }
 
 .circular-image {
